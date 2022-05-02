@@ -2,7 +2,11 @@
 #include <iostream>
 
 using namespace std;
-
+/*
+Ke 418
+Grishanina raschektaeva
+30 04 2022
+*/
 int main()
 {
 
